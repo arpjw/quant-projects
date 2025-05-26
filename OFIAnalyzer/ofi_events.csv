@@ -1,0 +1,7 @@
+timestamp,event_type,price,size,side
+100001,update,100.5,200,bid
+100001,update,100.7,100,ask
+100002,update,100.5,220,bid
+100003,update,100.7,80,ask
+100004,update,100.5,210,bid
+100005,update,100.6,90,ask
